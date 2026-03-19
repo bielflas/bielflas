@@ -4,7 +4,7 @@
 - 🔭 Student at EEEP Paulo Petrola - Informática
 - 🌱 I am a developer currently studying Java, Python, and Spring Boot.
 - ⚡ I'm also improving my English at CCI (Level 5/6).
-- 🌀 Animals lover
+- 🌀 Animal lover
 
 ---
 
