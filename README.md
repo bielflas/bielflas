@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Lucas! 👋
+# Hello, I am Gabriel Lucas! 👋
 
 ### 🚀 About me | Sobre Mim
 - 🔭 Student at EEEP Paulo Petrola - Informática
