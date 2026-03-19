@@ -1,7 +1,7 @@
 # Hello, I am Gabriel Lucas! 👋
 
 ### 🚀 About me | Sobre Mim
-- 🔭 Student at EEEP Paulo Petrola - Informática
+- 🔭 I am a 17 Student at EEEP Paulo Petrola - Informática
 - 🌱 I am a developer currently studying Java, Python, and Spring Boot.
 - ⚡ I'm also improving my English at CCI (Level 5/6).
 - 🌀 Animal lover
